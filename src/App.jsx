@@ -12,7 +12,7 @@ function App(){
     <h1>This is Noor portfoloio</h1>
     <h3>MERN Stack learner</h3> 
     <img scr ="MERN2.jpg"width="500" height="400" alt="MERN Stack" />
-    <Intro age={20} email="noor123@gmail.com" phone={1234567890}/>
+    <Intro age={20} email="noor123@gmail.com" phone={1234567890} branch="BCA"/>
     
 
     
