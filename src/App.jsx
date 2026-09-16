@@ -11,7 +11,7 @@ function App(){
   return <div>
     <h1>This is Noor portfoloio</h1>
     <h3>MERN Stack learner</h3> 
-    <img scr ="MERN2.jpg"width="500" height="400" alt="MERN Stack" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWXSGcgoVNHnUMDhV-Pi_3ixGI4ZrgB_wMBhB86SlLw&s=10" width ="400" hight="500" />
     <Intro age={20} email="noor123@gmail.com" phone={1234567890} branch="BCA"/>
     
 
